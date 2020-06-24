@@ -3,8 +3,8 @@
 > Searches images from [Docker Hub](https://hub.docker.com/) directly from Ulauncher.
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-yellowgreen.svg?style=for-the-badge)](https://ext.ulauncher.io/)
-[![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-dockerhub-extension/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-dockerhub-extension)
-[![license](https://img.shields.io/github/license/brpaz/ulauncher-dockerhub-extension.svg?style=for-the-badge)](https://github.com/brpaz/:ulauncher-dockerhub-extension/blob/master/LICENSE)
+[![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-dockerhub/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-dockerhub)
+[![license](https://img.shields.io/github/license/brpaz/ulauncher-dockerhub.svg?style=for-the-badge)](https://github.com/brpaz/:ulauncher-dockerhub/blob/master/LICENSE)
 
 ## Demo
 
