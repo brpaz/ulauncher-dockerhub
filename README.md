@@ -1,4 +1,4 @@
-# ulauncher-dockerhub-extension
+# Ulauncher Dockerhub
 
 > Searches images from [Docker Hub](https://hub.docker.com/) directly from Ulauncher.
 
