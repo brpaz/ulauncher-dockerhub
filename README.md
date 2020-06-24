@@ -1,7 +1,6 @@
 # ulauncher-dockerhub-extension
 
-> Searches Docker images from DockerHub
-
+> Searches images from [Docker Hub](https://hub.docker.com/) directly from Ulauncher.
 
 [![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-yellowgreen.svg?style=for-the-badge)](https://ext.ulauncher.io/)
 [![CI Status](https://img.shields.io/github/workflow/status/brpaz/ulauncher-dockerhub-extension/CI?color=orange&label=actions&logo=github&logoColor=orange&style=for-the-badge)](https://github.com/brpaz/ulauncher-dockerhub-extension)
@@ -9,7 +8,7 @@
 
 ## Demo
 
-TODO Add demo here.
+![demo](demo.gif)
 
 ## Requirements
 
